@@ -244,6 +244,42 @@
     <!-- lexical verbs = the rest -->
 
     <e><p><l>olla<s n="vblex"/></l><r>bí<s n="vblex"/></r></p></e>
+    <e><p><l>löytää<s n="vblex"/></l><r>faigh<s n="vblex"/></r></p></e>
+    <e><p><l>mennä<s n="vblex"/></l><r>téigh<s n="vblex"/></r></p></e>
+
+    <e><p><l>nähdä<s n="vblex"/></l><r>feic<s n="vblex"/></r></p></e>
+    <e><p><l>katsoa<s n="vblex"/></l><r>amharc<s n="vblex"/></r></p></e> 
+    <e><p><l>leikkiä<s n="vblex"/></l><r>imir<s n="vblex"/></r></p></e>
+    <e><p><l>kertoa<s n="vblex"/></l><r>abair<s n="vblex"/></r></p></e> <!-- abair# le -->
+    <e><p><l>tehdä<s n="vblex"/></l><r>déan<s n="vblex"/></r></p></e>
+    <e><p><l>sanoa<s n="vblex"/></l><r>abair<s n="vblex"/></r></p></e>
+    <e><p><l>puhua<s n="vblex"/></l><r>labhair<s n="vblex"/></r></p></e>
+    <e><p><l>kysyä<s n="vblex"/></l><r>ceistigh<s n="vblex"/></r></p></e>
+    <e><p><l>juoda<s n="vblex"/></l><r>ól<s n="vblex"/></r></p></e>
+
+<!--
+    <e><p><l>saada<s n="vblex"/></l><r>@saada<s n="vblex"/></r></p></e>
+    <e><p><l>nauraa<s n="vblex"/></l><r>@nauraa<s n="vblex"/></r></p></e>
+    <e><p><l>kuulla<s n="vblex"/></l><r>@kuulla<s n="vblex"/></r></p></e>
+    <e><p><l>kävellä<s n="vblex"/></l><r>@kävellä<s n="vblex"/></r></p></e>
+    <e><p><l>etsiä<s n="vblex"/></l><r>@etsiä<s n="vblex"/></r></p></e>
+    <e><p><l>yrittää<s n="vblex"/></l><r>@yrittää<s n="vblex"/></r></p></e>
+    <e><p><l>vastata<s n="vblex"/></l><r>@vastata<s n="vblex"/></r></p></e>
+    <e><p><l>tulla<s n="vblex"/></l><r>@tulla<s n="vblex"/></r></p></e>
+    <e><p><l>taata<s n="vblex"/></l><r>@taata<s n="vblex"/></r></p></e>
+    <e><p><l>syödä<s n="vblex"/></l><r>@syödä<s n="vblex"/></r></p></e>
+    <e><p><l>pystyä<s n="vblex"/></l><r>@pystyä<s n="vblex"/></r></p></e>
+    <e><p><l>pitää<s n="vblex"/></l><r>@pitää<s n="vblex"/></r></p></e>
+    <e><p><l>osata<s n="vblex"/></l><r>@osata<s n="vblex"/></r></p></e>
+    <e><p><l>nukkua<s n="vblex"/></l><r>@nukkua<s n="vblex"/></r></p></e>
+    <e><p><l>laskea<s n="vblex"/></l><r>@laskea<s n="vblex"/></r></p></e>
+    <e><p><l>kuunnella<s n="vblex"/></l><r>@kuunnella<s n="vblex"/></r></p></e>
+    <e><p><l>juosta<s n="vblex"/></l><r>@juosta<s n="vblex"/></r></p></e>
+    <e><p><l>istua<s n="vblex"/></l><r>@istua<s n="vblex"/></r></p></e>
+    <e><p><l>haluta<s n="vblex"/></l><r>@haluta<s n="vblex"/></r></p></e>
+    <e><p><l>ajatella<s n="vblex"/></l><r>@ajatella<s n="vblex"/></r></p></e>
+    <e><p><l>tietää<s n="vblex"/></l><r>@tietää<s n="vblex"/></r></p></e>
+-->
 
     <!-- adjectives -->
 
