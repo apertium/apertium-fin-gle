@@ -1,0 +1,24 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/TODO -text
+/apertium-fin-gle.fin-gle.dix -text
+/apertium-fin-gle.fin-gle.lrx -text
+/apertium-fin-gle.fin-gle.rlx -text
+/apertium-fin-gle.fin-gle.t1x -text
+/apertium-fin-gle.fin-gle.t2x -text
+/apertium-fin-gle.fin-gle.t3x -text
+/apertium-fin-gle.gle-fin.lrx -text
+/apertium-fin-gle.gle-fin.rlx -text
+/apertium-fin-gle.gle-fin.t1x -text
+/apertium-fin-gle.gle-fin.t2x -text
+/apertium-fin-gle.gle-fin.t3x -text
+/configure.ac -text
+/fin-gle.prob -text
+/gle-fin.prob -text
+/modes.xml -text
