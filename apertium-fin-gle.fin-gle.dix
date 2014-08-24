@@ -199,39 +199,40 @@
 
     <e><p><l>puutarha<s n="n"/></l><r>gairdín<s n="n"/><s n="m"/></r></p></e>
     
-    <e><p><l>koira<s n="n"/></l><r>madra<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>talo<s n="n"/></l><r>teach<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>kissa<s n="n"/></l><r>cat<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>äiti<s n="n"/></l><r>mam<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>puu<s n="n"/></l><r>crann<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>poika<s n="n"/></l><r>buachaill<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>vuosi<s n="n"/></l><r>bliain<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>vastaus<s n="n"/></l><r>freagra<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>leikki<s n="n"/></l><r>cluiche<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>käsi<s n="n"/></l><r>lámh<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>ikkuna<s n="n"/></l><r>fuinneog<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>vesi<s n="n"/></l><r>uisce<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>tyttö<s n="n"/></l><r>cailín<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>tuoli<s n="n"/></l><r>cathaoir<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>sisko<s n="n"/></l><r>deirfiúr<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>pöytä<s n="n"/></l><r>bord<s n="n"/><s n="m"/></r><</p></e>
-    <e><p><l>lapsi<s n="n"/></l><r>páiste<s n="n"/><s n="f"/></r><</p></e>
-    <e><p><l>eläin<s n="n"/></l><r>ainmhí<s n="n"/><s n="m"/></r><</p></e>
+    <e><p><l>koira<s n="n"/></l><r>madra<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>talo<s n="n"/></l><r>teach<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kissa<s n="n"/></l><r>cat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>äiti<s n="n"/></l><r>mam<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puu<s n="n"/></l><r>crann<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>poika<s n="n"/></l><r>buachaill<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vuosi<s n="n"/></l><r>bliain<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vastaus<s n="n"/></l><r>freagra<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>leikki<s n="n"/></l><r>cluiche<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>käsi<s n="n"/></l><r>lámh<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ikkuna<s n="n"/></l><r>fuinneog<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vesi<s n="n"/></l><r>uisce<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tyttö<s n="n"/></l><r>cailín<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tuoli<s n="n"/></l><r>cathaoir<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sisko<s n="n"/></l><r>deirfiúr<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pöytä<s n="n"/></l><r>bord<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lapsi<s n="n"/></l><r>páiste<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>eläin<s n="n"/></l><r>ainmhí<s n="n"/><s n="m"/></r></p></e>
 
-    <e><p><l>ääni<s n="n"/></l><r>@ääni<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>voi<s n="n"/></l><r>@voi<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>taka<s n="n"/></l><r>@taka<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>silmä<s n="n"/></l><r>@silmä<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>sää<s n="n"/></l><r>@sää<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>piilo<s n="n"/></l><r>@piilo<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>pää<s n="n"/></l><r>@pää<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>meno<s n="n"/></l><r>@meno<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>lintu<s n="n"/></l><r>@lintu<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>leikkiminen<s n="n"/></l><r>@leikkiminen<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>laskeminen<s n="n"/></l><r>@laskeminen<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>kysymys<s n="n"/></l><r>@kysymys<s n="n"/><s n="GD"/></r><</p></e>
-    <e><p><l>ihminen<s n="n"/></l><r>@ihminen<s n="n"/><s n="GD"/></r><</p></e>
+    <e><p><l>ääni<s n="n"/></l><r>fuaim<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silmä<s n="n"/></l><r>súil<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sää<s n="n"/></l><r>aimsir<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>pää<s n="n"/></l><r>ceann<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lintu<s n="n"/></l><r>éan<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kysymys<s n="n"/></l><r>ceist<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ihminen<s n="n"/></l><r>duine<s n="n"/><s n="m"/></r></p></e>
 
+<!--
+    <e><p><l>laskeminen<s n="n"/></l><r>@laskeminen<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>leikkiminen<s n="n"/></l><r>@leikkiminen<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>voi<s n="n"/></l><r>@voi<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>piilo<s n="n"/></l><r>@piilo<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>meno<s n="n"/></l><r>@meno<s n="n"/><s n="GD"/></r></p></e>
+-->
 
     <!-- verbs-->
 
