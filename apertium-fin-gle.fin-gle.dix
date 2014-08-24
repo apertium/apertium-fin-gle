@@ -202,14 +202,14 @@
 
     <!-- verbs-->
 
-    <e><p><l>ei<s n="vblex"/></l><r>ní<s n="vblex"/></p></e>
+    <e><p><l>ei<s n="vblex"/></l><r>ní<s n="vblex"/></r></p></e>
 
     <!-- auxiliaries = in Finnish verbs with infinitive complement -->
 
 
     <!-- lexical verbs = the rest -->
 
-    <e><p><l>olla<s n="vblex"/></l><r>bí<s n="vblex"/></p></e>
+    <e><p><l>olla<s n="vblex"/></l><r>bí<s n="vblex"/></r></p></e>
 
     <!-- adjectives -->
 

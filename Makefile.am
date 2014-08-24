@@ -50,16 +50,10 @@ $(PREFIX2).autogen.hfst: $(AP_LIB1)/$(LANG1).autogen.hfst
 ## gle transducer
 ###############################################################################
 
-$(PREFIX2).automorf.hfst: $(AP_LIB2)/$(LANG2).automorf.hfst
-	cp -v -f $< $@
-
 $(PREFIX2).automorf.bin: $(AP_LIB2)/$(LANG2).automorf.bin
 	cp -v -f $< $@
 
 $(PREFIX1).autogen.bin: $(AP_LIB2)/$(LANG2).autogen.bin
-	cp -v -f $< $@
-
-$(PREFIX1).autogen.hfst: $(AP_LIB2)/$(LANG2).autogen.hfst
 	cp -v -f $< $@
 
 
