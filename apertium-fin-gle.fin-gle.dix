@@ -202,24 +202,35 @@
 
     <!-- verbs-->
 
+    <e><p><l>ei<s n="vblex"/></l><r>ní<s n="vblex"/></p></e>
 
     <!-- auxiliaries = in Finnish verbs with infinitive complement -->
 
 
     <!-- lexical verbs = the rest -->
 
+    <e><p><l>olla<s n="vblex"/></l><r>bí<s n="vblex"/></p></e>
 
     <!-- adjectives -->
 
+    <e><p><l>hyvä<s n="adj"/></l><r>breá<s n="adj"/></r></p></e>
+    <e><p><l>lämmin<s n="adj"/></l><r>te<s n="adj"/></r></p></e>
+    <e><p><l>kylmä<s n="adj"/></l><r>fuar<s n="adj"/></r></p></e>
+    <e><p><l>iso<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
 
     <!-- adpositions -->
 
 
     <!-- conjunctions -->
 
+    <e><p><l>ja<s n="cnjcoo"/></l><r>agus<s n="cnjcoo"/></r></p></e>
+    <e><p><l>mutta<s n="cnjsub"/></l><r>ach<s n="cnjcoo"/></r></p></e>
 
     <!-- adverbs -->
 
+    <e><p><l>tänään<s n="adv"/></l><r>inniu<s n="adv"/></r></p></e>
+    <e><p><l>eilen<s n="adv"/></l><r>inné<s n="adv"/></r></p></e>
+    <e><p><l>ulkona<s n="adv"/></l><r>amuigh<s n="adv"/></r></p></e>
 
     <!-- interjections -->
 
@@ -230,6 +241,8 @@
 
 
     <!-- persons -->
+
+    <e><p><l>he<s n="prn"/></l><r>siad<s n="prn"/></r></p></e>
 
 
     <!-- demon -->
