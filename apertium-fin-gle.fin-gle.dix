@@ -252,6 +252,16 @@
     <e><p><l>kylmä<s n="adj"/></l><r>fuar<s n="adj"/></r></p></e>
     <e><p><l>iso<s n="adj"/></l><r>mór<s n="adj"/></r></p></e>
 
+    <e><p><l>vanha<s n="adj"/></l><r>sean<s n="adj"/></r></p></e>
+    <e><p><l>pieni<s n="adj"/></l><r>beag<s n="adj"/></r></p></e>
+    <e><p><l>iloinen<s n="adj"/></l><r>sona<s n="adj"/></r></p></e>
+    <e><p><l>hauska<s n="adj"/></l><r>grianmhar<s n="adj"/></r></p></e>
+
+<!--
+    <e><p><l>vähä<s n="adj"/></l><r>@vähä<s n="adj"/></r></p></e>
+    <e><p><l>lopettanut<s n="adj"/></l><r>@lopettanut<s n="adj"/></r></p></e>
+-->
+
     <!-- adpositions -->
 
 
@@ -265,6 +275,7 @@
     <e><p><l>tänään<s n="adv"/></l><r>inniu<s n="adv"/></r></p></e>
     <e><p><l>eilen<s n="adv"/></l><r>inné<s n="adv"/></r></p></e>
     <e><p><l>ulkona<s n="adv"/></l><r>amuigh<s n="adv"/></r></p></e>
+    <e><p><l>erittäin<s n="adv"/></l><r>an-<s n="adv"/></r></p></e>
 
     <!-- interjections -->
 
