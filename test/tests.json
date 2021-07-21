@@ -1,0 +1,10 @@
+{
+    "fin-gle": {
+        "input": "fin-gle-input.txt",
+        "mode": "fin-gle"
+    },
+    "gle-fin": {
+        "input": "gle-fin-input.txt",
+        "mode": "gle-fin"
+    }
+}

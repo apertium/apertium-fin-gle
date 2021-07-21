@@ -147,9 +147,9 @@ apertium_fin_gle_DATA=	\
 
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
-noinst_DATA=modes/$(PREFIX1).mode \
-	.deps/$(LANG1).automorf.hfst \
-	.deps/$(LANG2).automorf.bin
+noinst_DATA=modes/$(PREFIX1).mode
+#	.deps/$(LANG1).automorf.hfst \
+#	.deps/$(LANG2).automorf.bin
 
 install-data-local: install-modes
 
@@ -166,10 +166,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "house" | apertium -d . -f line fin-gle | tee .test-mt
-	@echo "house" > .test-ref
-	@diff .test-ref .test-mt
-	echo "house" | apertium -d . -f line gle-fin | tee .test-mt
-	@echo "house" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test
